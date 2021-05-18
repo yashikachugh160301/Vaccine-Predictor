@@ -5,8 +5,7 @@ Jinja2
 Keras
 numpy
 pandas
-Pillow
 scipy
-tensorflow-cpu
+tensorflow==1.7.0
 matplotlib
 
