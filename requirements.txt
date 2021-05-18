@@ -6,8 +6,7 @@ Keras
 numpy
 pandas
 Pillow
-request
 scipy
-tensorboard
 tensorflow
+matplotlib
 
