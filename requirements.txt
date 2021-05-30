@@ -6,6 +6,6 @@ Keras
 numpy
 pandas
 scipy
-tensorflow==2.5.0rc0
+tensorflow-cpu
 matplotlib
 
